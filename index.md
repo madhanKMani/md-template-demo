@@ -7,7 +7,7 @@ Welcome to my online content library! Here, you’ll find all my posts shared on
 ## Table of Contents
 
 ### 🔗 LinkedIn Posts
-- [Understanding Kotlin Coroutines](./LinkedIn/post1.md)
+- [Understanding Kotlin Coroutines](./linkedin/linkedin_post1.md)
 - [Mastering Dependency Injection in Android](./LinkedIn/post2.md)
 - [Optimizing Android App Performance](./LinkedIn/post3.md)
 
