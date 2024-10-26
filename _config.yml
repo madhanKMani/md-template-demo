@@ -1,13 +1,12 @@
 # Site Information
 title: "My Content Library"
 description: "An organized library of my LinkedIn and X posts with technical insights and code snippets."
-baseurl: "index.md" # The subpath of your site, e.g., /blog (leave blank if your site is at the root)
-url: "https://madhankmani.github.io/md-template-demo/" # Your GitHub Pages URL
+baseurl: "md-template-demo" # The subpath of your site, e.g., /blog (leave blank if your site is at the root)
+url: "https://madhankmani.github.io/md-template-demo" # Your GitHub Pages URL
 
 # Author Information
 author: 
-  name: "Your Name"
-  email: "youremail@example.com"
+  name: "Madhan"
 
 # Theme (Choose a Jekyll theme)
 theme: jekyll-theme-hacker # You can use other GitHub Pages-supported themes like 'minima', 'architect', etc.
