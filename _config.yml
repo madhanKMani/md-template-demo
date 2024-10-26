@@ -9,7 +9,7 @@ author:
   name: "Madhan"
 
 # Theme (Choose a Jekyll theme)
-theme: jekyll-theme-Cayman # You can use other GitHub Pages-supported themes like 'minima', 'architect', etc.
+theme: jekyll-theme-cayman # You can use other GitHub Pages-supported themes like 'minima', 'architect', etc.
 
 # Markdown and Permalinks
 markdown: kramdown # Kramdown is the default Markdown processor
