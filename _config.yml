@@ -25,7 +25,7 @@ navbar_links:
   - title: "Home"
     url: "/"
   - title: "LinkedIn Posts"
-    url: "/LinkedIn/"
+    url: "/linkedin/"
   - title: "X Posts"
     url: "/X/"
   - title: "About"
