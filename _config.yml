@@ -1,0 +1,22 @@
+# Site Information
+title: "My Content Library"
+description: "An organized library of my LinkedIn and X posts with technical insights and code snippets."
+baseurl: "" # The subpath of your site, e.g., /blog (leave blank if your site is at the root)
+url: "https://yourusername.github.io" # Your GitHub Pages URL
+
+# Author Information
+author: 
+  name: "Your Name"
+  email: "youremail@example.com"
+
+# Theme (Choose a Jekyll theme)
+theme: jekyll-theme-hacker # You can use other GitHub Pages-supported themes like 'minima', 'architect', etc.
+
+# Markdown and Permalinks
+markdown: kramdown # Kramdown is the default Markdown processor
+permalink: /:categories/:title/ # URL structure for posts (change if you want custom URLs)
+
+# Social Links (Optional)
+social_links: 
+  X: "https://x.com/MadhanKMani"
+  LinkedIn: "https://linkedin.com/in/yourusername"
