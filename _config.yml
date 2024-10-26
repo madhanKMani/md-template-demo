@@ -2,7 +2,7 @@
 title: "My Content Library"
 description: "An organized library of my LinkedIn and X posts with technical insights and code snippets."
 baseurl: "" # The subpath of your site, e.g., /blog (leave blank if your site is at the root)
-url: "https://yourusername.github.io" # Your GitHub Pages URL
+url: "https://madhankmani.github.io/md-template-demo/" # Your GitHub Pages URL
 
 # Author Information
 author: 
