@@ -19,3 +19,15 @@ permalink: /:categories/:title/ # URL structure for posts (change if you want cu
 social_links: 
   X: "https://x.com/MadhanKMani"
   LinkedIn: "https://linkedin.com/in/yourusername"
+
+# Optional - Custom Navigation Links (if theme supports it)
+navbar_links:
+  - title: "Home"
+    url: "/"
+  - title: "LinkedIn Posts"
+    url: "/LinkedIn/"
+  - title: "X Posts"
+    url: "/X/"
+  - title: "About"
+    url: "/about/"
+
